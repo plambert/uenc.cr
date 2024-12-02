@@ -1,0 +1,13 @@
+name: uenc
+version: 0.1.0
+
+authors:
+  - Paul M. Lambert <plambert@plambert.net>
+
+targets:
+  uenc:
+    main: src/uenc.cr
+
+crystal: '>= 1.14.0'
+
+license: MIT
